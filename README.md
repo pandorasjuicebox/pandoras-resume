@@ -248,6 +248,7 @@ In this section of the book, Etter goes through a few bullet points about how to
 #### **Group Members**
 * [Emily Nguyen](https://github.com/emily0906) 
 * [Rajinder Singh](https://github.com/rajindersingh751) 
+* Mohammed Anjum
 #### **GitHub Page Theme**
 * [Steve Smith](https://github.com/orderedlist) 
 ---
