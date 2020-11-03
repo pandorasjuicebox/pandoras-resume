@@ -1,10 +1,10 @@
 # How to Host a Resume on GitHub Pages
 
-This README goes over the steps on how to take to create a [resume written in the Markdown markup language, and hosting it on GitHub pages](https://pandorasjuicebox.GitHub.io/pandoras-resume/). Throughout this document, the general principles of Andrew Etter's book "Modern Technical Writing" is demonstrated and explained. No prior experience in Markdown or GitHub is needed to start this tutorial.
+This README goes over the steps on how to take to create a [resume written in the Markdown markup language, and hosting it on GitHub pages](https://pandorasjuicebox.github.io/pandoras-resume/). Throughout this document, the general principles of Andrew Etter's book "Modern Technical Writing" is demonstrated and explained. No prior experience in Markdown or GitHub is needed to start this tutorial.
 
 ---
 ## Contents
-* Audience
+* [Audience](##Audience)
 * Prerequisites
    * [Getting Started](##Getting-Started)
       * [Choosing a Markdown Editor](####Choosing-a-Markdown-Editor)
@@ -44,7 +44,7 @@ By the end of this section, you have:
 * If you are not familiar with using the Markdown markup language, [an easy-to-follow tutorial resource is available](##More-Resources). 
 
 #### **Signing up for GitHub**
-* Sign up for GitHub [here](https://GitHub.com/join).
+* Sign up for GitHub [here](https://github.com/join).
 * For this tutorial, you only need a [personal user account](https://docs.GitHub.com/en/free-pro-team@latest/GitHub/getting-started-with-GitHub/types-of-GitHub-accounts#personal-user-accounts). 
 
 
@@ -152,9 +152,9 @@ By the end of this section, you have:
 * Successfully viewed your resume on your GitHub Page through at least one of two methods
 
 #### **Viewing Your GitHub Page By URL**
-1. Your main GitHub page is ```https://<Your GitHub Username>.GitHub.io/```. 
+1. Your main GitHub page is ```https://<Your GitHub Username>.github.io/```. 
     * Should you have named this repository with your username, visiting the URL above will let you view your GitHub Page and see your resume. 
-2. To view your resume, type ```https://<Your GitHub Username>.GitHub.io/``` but add the name of the repository at the end. In the case of this tutorial, it would be ```https://pandorasjuicebox.GitHub.io/pandoras-resume/```.
+2. To view your resume, type ```https://<Your GitHub Username>.github.io/``` but add the name of the repository at the end. In the case of this tutorial, it would be ```https://pandorasjuicebox.github.io/pandoras-resume/```.
 
     ![A GIF showing the address being typed into a browser toolbar](https://media.giphy.com/media/x4DlV7Ix9MqO6QB9sK/giphy.gif)
 
@@ -241,12 +241,12 @@ In this section of the book, Etter goes through a few bullet points about how to
 ---
 ## Authors and Acknowledgements 
 #### **Author**
-* [Charina Duenas](https://GitHub.com/pandorasjuicebox)  
+* [Charina Duenas](https://github.com/pandorasjuicebox)  
 #### **Group Members**
-* [Emily Nguyen](https://GitHub.com/emily0906) 
+* [Emily Nguyen](https://github.com/emily0906) 
 * Rajinder Singh 
 #### **GitHub Page Theme**
-* [Steve Smith](https://GitHub.com/orderedlist) 
+* [Steve Smith](https://github.com/orderedlist) 
 ---
 ## FAQs
 **Why is Markdown better than a word processor?**
