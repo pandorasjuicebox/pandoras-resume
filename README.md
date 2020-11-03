@@ -181,6 +181,7 @@ By thinking how to further define the audience, as well what their possible goal
 * They have no experience with either Markdown or GitHub. 
     * Because they have no experience with GitHub, it is also assumed that they do not know Git either, as Git and GitHub usually go hand-in-hand. 
 * They may not follow the README in a linear way (from beginning to the end). Anchored links and pages are popular formatting elements in most websites these days, and the user may jump back and forth sections (or have no context of what happened in the section before the on they are reading). 
+   * Breaking each section into "topics" as mentioned in the Etter book is a must. 
 
 This README was written with this type of audience in mind, and it also dictated the goals that the tutorial needed to accomplish. Andrew Etter divided readers into three groups: users, administrators, and developers. In this case the reader is a user, with GitHub being the platform in which they wish to achieve a task with (hosting their resume).
 
