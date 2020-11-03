@@ -4,26 +4,26 @@ This README tutorial goes over the steps on how to take to create a [resume writ
 
 ---
 ## Contents
-* [Audience](##Audience)
-* [Prerequisites](##Prerequisites)
-   * [Getting Started](###Getting-Started)
-      * [Choosing a Markdown Editor](####Choosing-a-Markdown-Editor)
-      * [Signing up for GitHub](####Signing-up-for-GitHub)
+* [Audience](#Audience)
+* [Prerequisites](#Prerequisites)
+   * [Getting Started](#Getting-Started)
+      * [Choosing a Markdown Editor](#Choosing-a-Markdown-Editor)
+      * [Signing up for GitHub](#Signing-up-for-GitHub)
 * [Instructions](##Instructions)
-   * [Create a Repository](###Create-a-Repository)
-   * [Setting Up GitHub Pages](###Setting-Up-GitHub-Pages)
-   * [Choosing a Jekyll Theme For Your GitHub Page](###Choosing-a-Jekyll-Theme-For-Your-GitHub-Page)
-   * [Hosting Your Resume on GitHub Pages](###Hosting-Your-Resume-on-GitHub-Pages)
-   * [Viewing your GitHub Page](###Viewing-your-GitHub-Page)
-      * [Viewing Your GitHub Page By URL](####Viewing-Your-GitHub-Page-By-URL)
-      * [Viewing Your GitHub Page Through the Repository](####Viewing-Your-GitHub-Page-Through-the-Repository)
-* [Principles of Technical Writing](##Principles-of-Technical-Writing)
-    * [Defining the Audience](####Defining-the-Audience)
-    * [Basic Functional Documentation (BFD)](####Basic-Functional-Documentation)
-    * [Style](####Style)
-* [More Resources](##More-Resources)
-* [Authors and Acknowledgements](##Authors-and-Acknowledgements)
-* [FAQs](##FAQs)
+   * [Create a Repository](#Create-a-Repository)
+   * [Setting Up GitHub Pages](#Setting-Up-GitHub-Pages)
+   * [Choosing a Jekyll Theme For Your GitHub Page](#Choosing-a-Jekyll-Theme-For-Your-GitHub-Page)
+   * [Hosting Your Resume on GitHub Pages](#Hosting-Your-Resume-on-GitHub-Pages)
+   * [Viewing your GitHub Page](#Viewing-your-GitHub-Page)
+      * [Viewing Your GitHub Page By URL](#Viewing-Your-GitHub-Page-By-URL)
+      * [Viewing Your GitHub Page Through the Repository](#Viewing-Your-GitHub-Page-Through-the-Repository)
+* [Principles of Technical Writing](#Principles-of-Technical-Writing)
+    * [Defining the Audience](#Defining-the-Audience)
+    * [Basic Functional Documentation (BFD)](#Basic-Functional-Documentation)
+    * [Style](#Style)
+* [More Resources](#More-Resources)
+* [Authors and Acknowledgements](#Authors-and-Acknowledgements)
+* [FAQs](#FAQs)
 
 ---
 
@@ -42,7 +42,7 @@ By the end of this section, you have:
 
 #### **Choosing a Markdown Editor**
 * Popular choices include [Atom](https://atom.io) and [Sublime Text](https://www.sublimetext.com). But there are also [other options](https://www.shopify.com/partners/blog/10-of-the-best-markdown-editors).
-* If you are not familiar with using the Markdown markup language, [an easy-to-follow tutorial resource is available](##More-Resources). 
+* If you are not familiar with using the Markdown markup language, [an easy-to-follow tutorial resource is available](#More-Resources). 
 
 #### **Signing up for GitHub**
 * Sign up for GitHub [here](https://github.com/join).
@@ -105,7 +105,7 @@ By the end of this section, you have:
 * Chosen a Jekyll theme for your GitHub Page.
 
 #### **Finding and Selecting a Jekyll Theme**
-1. Ensure that GitHub Pages [is enabled](###Setting-Up-GitHub-Pages). 
+1. Ensure that GitHub Pages [is enabled](#Setting-Up-GitHub-Pages). 
 2. In the GitHub Pages section of your repository settings, click on "**Theme Chooser**".
 
     ![A GIF that shows where Theme Chooser is located in the GitHub Pages section](https://media.giphy.com/media/Urr9PIHgDGK81D1qks/giphy.gif)
@@ -127,8 +127,8 @@ By the end of this section, you have:
 * Successfully hosted your resume on GitHub Pages.
 
 #### **Uploading Your Resume on GitHub**
-1. If you need still need to set up your Markdown environment, refer to the [setup guide](###Getting-Started).
-    * If you are yet to be familiar with Markdown, [an easy-to-follow tutorial](##More-Resources) is available.
+1. If you need still need to set up your Markdown environment, refer to the [setup guide](#Getting-Started).
+    * If you are yet to be familiar with Markdown, [an easy-to-follow tutorial](#More-Resources) is available.
     * This tutorial also includes a [Markdown cheat sheet](##More-Resources) for those already experienced, but require some brushing up. 
 
 2. Open your text editor and create a new Markdown file called ```index.md```. 
