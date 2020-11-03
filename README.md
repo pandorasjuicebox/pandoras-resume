@@ -129,7 +129,7 @@ By the end of this section, you have:
 #### **Uploading Your Resume on GitHub**
 1. If you need still need to set up your Markdown environment, refer to the [setup guide](#Getting-Started).
     * If you are yet to be familiar with Markdown, [an easy-to-follow tutorial](#More-Resources) is available.
-    * This tutorial also includes a [Markdown cheat sheet](##More-Resources) for those already experienced, but require some brushing up. 
+    * This tutorial also includes a [Markdown cheat sheet](#More-Resources) for those already experienced, but require some brushing up. 
 
 2. Open your text editor and create a new Markdown file called ```index.md```. 
 
