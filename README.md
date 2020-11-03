@@ -19,7 +19,7 @@ This README tutorial goes over the steps on how to take to create a [resume writ
       * [Viewing Your GitHub Page Through the Repository](#Viewing-Your-GitHub-Page-Through-the-Repository)
 * [Principles of Technical Writing](#Principles-of-Technical-Writing)
     * [Defining the Audience](#Defining-the-Audience)
-    * [Basic Functional Documentation (BFD)](#Basic-Functional-Documentation-(BFD))
+    * [Basic Functional Documentation (BFD)](#Basic-Functional-Documentation)
     * [Style](#Style)
 * [More Resources](#More-Resources)
 * [Authors and Acknowledgements](#Authors-and-Acknowledgements)
@@ -197,7 +197,7 @@ By thinking how to further define the audience, as well what their possible goal
 
 This README was written with this type of audience in mind, and it also dictated the goals that the tutorial needed to accomplish. Andrew Etter divided readers into three groups: users, administrators, and developers. In this case the reader is a user, with GitHub being the platform in which they wish to achieve a task with (hosting their resume).
 
-#### **Basic Functional Documentation (BFD)**
+#### **Basic Functional Documentation**
 Etter describes something called BFD or Basic Functional Documentation, and to be considered as such, a document should be able to answer the following questions: 
 
 1. What is this product? Why would anyone want it?
