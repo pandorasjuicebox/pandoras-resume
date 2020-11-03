@@ -19,7 +19,7 @@ This README tutorial goes over the steps on how to take to create a [resume writ
       * [Viewing Your GitHub Page Through the Repository](#Viewing-Your-GitHub-Page-Through-the-Repository)
 * [Principles of Technical Writing](#Principles-of-Technical-Writing)
     * [Defining the Audience](#Defining-the-Audience)
-    * [Basic Functional Documentation (BFD)](#Basic-Functional-Documentation)
+    * [Basic Functional Documentation (BFD)](#Basic-Functional-Documentation-(BFD))
     * [Style](#Style)
 * [More Resources](#More-Resources)
 * [Authors and Acknowledgements](#Authors-and-Acknowledgements)
