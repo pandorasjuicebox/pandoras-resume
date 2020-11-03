@@ -25,7 +25,7 @@ This README goes over the steps on how to take to create a [resume written in th
 * [FAQs](##FAQs)
 
 ---
-
+ 
 ## Getting Started 
 By the end of this section, you have:
 
