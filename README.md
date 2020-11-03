@@ -1,6 +1,6 @@
 # How to Host a Resume on GitHub Pages
 
-This README tutorial goes over the steps on how to take to create a [resume written in the Markdown markup language, and hosting it on GitHub pages](https://pandorasjuicebox.github.io/pandoras-resume/). Throughout this document, the general principles of Andrew Etter's book "Modern Technical Writing" is demonstrated and explained. No prior experience in Markdown or GitHub is needed to start this tutorial.
+This README tutorial goes over the steps on how to create a [resume written in the Markdown markup language, and hosting it on GitHub pages](https://pandorasjuicebox.github.io/pandoras-resume/). Throughout this document, the general principles of Andrew Etter's book "Modern Technical Writing" is demonstrated and explained. No prior experience in Markdown or GitHub is needed to start this tutorial.
 
 ---
 ## Contents
