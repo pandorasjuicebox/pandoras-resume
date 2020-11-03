@@ -258,6 +258,6 @@ In this section of the book, Etter goes through a few bullet points about how to
 * Markdown has inline styles, but is still plain text. So it can be read by any program, including the ones you make.
 
 **Why is my resume not showing up?**
-* Make sure GitHub Pages is [enabled](##Setting-Up-GitHub-Pages). 
+* Make sure GitHub Pages is [enabled](#Setting-Up-GitHub-Pages). 
 * Your resume must named ```index.md```, or it will not be recognised by GitHub Pages. 
 * Ensure that ```index.md``` is not empty.
