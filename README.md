@@ -164,7 +164,7 @@ By the end of this section, you have:
 #### **Viewing Your GitHub Page Through the Repository**
 
 1. Navigate to the main page of your repository.
-2. On the lower section of the right sidebar under **Environments**, click "**GitHub-pages**". The site will redirect you to the Deployments page.
+2. On the lower section of the right sidebar under **Environments**, click "**github-pages**". The site will redirect you to the Deployments page.
 
     ![A GIF showing the "Environments" section on the side bar](https://media.giphy.com/media/SIsLoNZf5S5mjRrgfg/giphy.gif)
 
@@ -235,7 +235,7 @@ In this section of the book, Etter goes through a few bullet points about how to
 ---
 ## More Resources
 * [Easy Markdown Tutorial](https://www.markdowntutorial.com)
-* [GitHub Flavoured Markdown Reference Sheet](https://guides.GitHub.com/pdfs/markdown-cheatsheet-online.pdf)
+* [GitHub Flavoured Markdown Reference Sheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 * ["Modern Technical Writing" by Andrew Etter](https://www.amazon.com/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
 
 ---
