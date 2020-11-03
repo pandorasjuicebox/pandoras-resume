@@ -247,7 +247,7 @@ In this section of the book, Etter goes through a few bullet points about how to
 * [Charina Duenas](https://github.com/pandorasjuicebox)  
 #### **Group Members**
 * [Emily Nguyen](https://github.com/emily0906) 
-* Rajinder Singh 
+* [Rajinder Singh](https://github.com/rajindersingh751) 
 #### **GitHub Page Theme**
 * [Steve Smith](https://github.com/orderedlist) 
 ---
