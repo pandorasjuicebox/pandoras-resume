@@ -32,7 +32,7 @@ This README tutorial aims to target a computer science student who wishes to kno
 
 ---
 ## Prerequisites
----
+
 ### Getting Started 
 By the end of this section, you have:
 
@@ -51,7 +51,7 @@ By the end of this section, you have:
 
 ---
 ## Instructions
----
+
 
 ### Create a Repository 
 By the end of this section, you have:
