@@ -4,7 +4,7 @@ This README goes over the steps on how to take to create a [resume written in th
 
 ---
 ## Contents
-* [Getting Started](##Getting-Started)
+* [Prerequisites](##Prerequisites)
     * [Choosing a Markdown Editor](####Choosing-a-Markdown-Editor)
     * [Signing up for GitHub](####Signing-up-for-GitHub)
 * [Create a Repository](##Create-a-Repository)
@@ -23,7 +23,7 @@ This README goes over the steps on how to take to create a [resume written in th
 
 ---
 
-## Getting Started
+## Prerequisites
 By the end of this section, you have:
 
 * Downloaded a Markdown editor.
@@ -115,7 +115,7 @@ By the end of this section, you have:
 * Successfully hosted your resume on GitHub Pages.
 
 #### **Uploading Your Resume on GitHub**
-1. If you need still need to set up your Markdown environment, refer to the [setup guide](##Getting-Started).
+1. If you need still need to set up your Markdown environment, refer to the [setup guide](##Prerequisites).
     * If you are yet to be familiar with Markdown, [an easy-to-follow tutorial](##More-Resources) is available.
     * This tutorial also includes a [Markdown cheat sheet](##More-Resources) for those already experienced, but require some brushing up. 
 
