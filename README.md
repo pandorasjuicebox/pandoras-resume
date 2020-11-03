@@ -1,6 +1,6 @@
 # How to Host a Resume on GitHub Pages
 
-This README goes over the steps on how to take to create a [resume written in the Markdown markup language, and hosting it on GitHub pages](https://pandorasjuicebox.github.io/pandoras-resume/). Throughout this document, the general principles of Andrew Etter's book "Modern Technical Writing" is demonstrated and explained. No prior experience in Markdown or GitHub is needed to start this tutorial.
+This README tutorial goes over the steps on how to take to create a [resume written in the Markdown markup language, and hosting it on GitHub pages](https://pandorasjuicebox.github.io/pandoras-resume/). Throughout this document, the general principles of Andrew Etter's book "Modern Technical Writing" is demonstrated and explained. No prior experience in Markdown or GitHub is needed to start this tutorial.
 
 ---
 ## Contents
@@ -28,7 +28,7 @@ This README goes over the steps on how to take to create a [resume written in th
 ---
 
 ## Audience
-This README aims to target a computer science student who wishes to know how to host their resume on GitHub pages, and also wishes to learn about a few technical writing principles highlighted in "Modern Technical Wriitng" by Andrew Etter. No knowledge of GitHub or Markdown is assumed, and consequently, no knowledge of Git is also assumed. This README tutorial also assumes that it may not be followed in a linear fashion as anchored links are present, and each section/sub-sections does not assume knowledge of other sections. 
+This README tutorial aims to target a computer science student who wishes to know how to host their resume on GitHub pages, and also wishes to learn about a few technical writing principles highlighted in "Modern Technical Wriitng" by Andrew Etter. No knowledge of GitHub or Markdown is assumed, and consequently, no knowledge of Git is also assumed. This README tutorial also assumes that it may not be followed in a linear fashion as anchored links are present, and each section/sub-sections does not assume knowledge of other sections. 
 
 ---
  
