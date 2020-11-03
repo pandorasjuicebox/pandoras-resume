@@ -9,7 +9,7 @@ This README tutorial goes over the steps on how to take to create a [resume writ
    * [Getting Started](#Getting-Started)
       * [Choosing a Markdown Editor](#Choosing-a-Markdown-Editor)
       * [Signing up for GitHub](#Signing-up-for-GitHub)
-* [Instructions](##Instructions)
+* [Instructions](#Instructions)
    * [Create a Repository](#Create-a-Repository)
    * [Setting Up GitHub Pages](#Setting-Up-GitHub-Pages)
    * [Choosing a Jekyll Theme For Your GitHub Page](#Choosing-a-Jekyll-Theme-For-Your-GitHub-Page)
