@@ -205,7 +205,7 @@ Etter describes something called BFD or Basic Functional Documentation, and to b
     * Hosting your resume on GitHub Pages is a type of static website, and because of the Markdown format of the content, it is highly portable have no dependencies on the server-side.
 3. Where can I acquire this product? If there are multiple distribution packages, which should I choose and why?
     * This product can be acquired at: ```https://GitHub.com/pandorasjuicebox/pandoras-resume```
-    * Generating a static website to host a resume conforms to the practise of single-sourcing. So this means that this document can be shared multiple times, viewed across multiple devices, but the source content can be modified and added to in one place. 
+    * Generating a static website to host a resume conforms to the practise of [single-sourcing](https://en.wikipedia.org/wiki/Single-source_publishing). So this means that this document can be shared multiple times, viewed across multiple devices, but the source content can be modified and added to in one place. 
 4. How do I install the product? What are the basic configuration options, if any?
     * Since the README is hosted on GitHub which is a hosting service, there is nothing to install. The README doesn't need to be configured in any way. It is only read and interacted with.
 5. What does a simple, start to finish operation look like? 
