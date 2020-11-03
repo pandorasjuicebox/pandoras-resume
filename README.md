@@ -123,7 +123,7 @@ By the end of this section, you have:
 
 3. Create or re-create and format your resume in this Markdown file.
 4. When that is done, head over to GitHub and navigate to the main page of your repository. 
-5. Above the file table where the contents of your repository is stored, click on "**Add file**" then select "**Upload files**". It will redirect you to an upload page. 
+5. Above the file table where the contents of your repository are stored, click on "**Add file**" then select "**Upload files**". It will redirect you to an upload page. 
 
     ![A GIF showing how to upload files from the repository](https://media.giphy.com/media/gL6NYRPMIXzR4wdGxQ/giphy.gif)
 
