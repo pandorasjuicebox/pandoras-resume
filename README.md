@@ -5,16 +5,16 @@ This README tutorial goes over the steps on how to take to create a [resume writ
 ---
 ## Contents
 * [Audience](##Audience)
-* Prerequisites
-   * [Getting Started](##Getting-Started)
+* [Prerequisites](##Prerequisites)
+   * [Getting Started](###Getting-Started)
       * [Choosing a Markdown Editor](####Choosing-a-Markdown-Editor)
       * [Signing up for GitHub](####Signing-up-for-GitHub)
-* Instructions
-   * [Create a Repository](##Create-a-Repository)
-   * [Setting Up GitHub Pages](##Setting-Up-GitHub-Pages)
-   * [Choosing a Jekyll Theme For Your GitHub Page](##Choosing-a-Jekyll-Theme-For-Your-GitHub-Page)
-   * [Hosting Your Resume on GitHub Pages](##Hosting-Your-Resume-on-GitHub-Pages)
-   * [Viewing your GitHub Page](##Viewing-your-GitHub-Page)
+* [Instructions](##Instructions)
+   * [Create a Repository](###Create-a-Repository)
+   * [Setting Up GitHub Pages](###Setting-Up-GitHub-Pages)
+   * [Choosing a Jekyll Theme For Your GitHub Page](###Choosing-a-Jekyll-Theme-For-Your-GitHub-Page)
+   * [Hosting Your Resume on GitHub Pages](###Hosting-Your-Resume-on-GitHub-Pages)
+   * [Viewing your GitHub Page](###Viewing-your-GitHub-Page)
       * [Viewing Your GitHub Page By URL](####Viewing-Your-GitHub-Page-By-URL)
       * [Viewing Your GitHub Page Through the Repository](####Viewing-Your-GitHub-Page-Through-the-Repository)
 * [Principles of Technical Writing](##Principles-of-Technical-Writing)
@@ -31,8 +31,9 @@ This README tutorial goes over the steps on how to take to create a [resume writ
 This README tutorial aims to target a computer science student who wishes to know how to host their resume on GitHub pages, and also wishes to learn about a few technical writing principles highlighted in "Modern Technical Wriitng" by Andrew Etter. No knowledge of GitHub or Markdown is assumed, and consequently, no knowledge of Git is also assumed. This README tutorial also assumes that it may not be followed in a linear fashion as anchored links are present, and each section/sub-sections does not assume knowledge of other sections. 
 
 ---
- 
-## Getting Started 
+## Prerequisites
+---
+### Getting Started 
 By the end of this section, you have:
 
 * Downloaded a Markdown editor.
@@ -49,8 +50,10 @@ By the end of this section, you have:
 
 
 ---
+## Instructions
+---
 
-## Create a Repository 
+### Create a Repository 
 By the end of this section, you have:
 
 * Created a new repository on GitHub.
@@ -75,7 +78,7 @@ By the end of this section, you have:
 
 ---
 
-## Setting Up GitHub Pages
+### Setting Up GitHub Pages
 By the end of this section, you have:
 * Enabled the creation of GitHub Pages for your repository.
 
@@ -93,7 +96,7 @@ By the end of this section, you have:
 
 ---
 
-## Choosing a Jekyll Theme for Your GitHub Page
+### Choosing a Jekyll Theme for Your GitHub Page
 
 *NOTE: This section only covers the easiest way to choose a Jekyll theme, which is using the theme chooser which is directly available but provides a limited selection. [Being able to use other themes is possible](https://GitHub.blog/2017-11-29-use-any-theme-with-GitHub-pages/), but may require further reading.*
 
@@ -102,7 +105,7 @@ By the end of this section, you have:
 * Chosen a Jekyll theme for your GitHub Page.
 
 #### **Finding and Selecting a Jekyll Theme**
-1. Ensure that GitHub Pages [is enabled](##Setting-Up-GitHub-Pages). 
+1. Ensure that GitHub Pages [is enabled](###Setting-Up-GitHub-Pages). 
 2. In the GitHub Pages section of your repository settings, click on "**Theme Chooser**".
 
     ![A GIF that shows where Theme Chooser is located in the GitHub Pages section](https://media.giphy.com/media/Urr9PIHgDGK81D1qks/giphy.gif)
@@ -115,7 +118,7 @@ By the end of this section, you have:
 
 ---
 
-## Hosting Your Resume on GitHub Pages
+### Hosting Your Resume on GitHub Pages
 
 By the end of this section, you have:
 
@@ -124,7 +127,7 @@ By the end of this section, you have:
 * Successfully hosted your resume on GitHub Pages.
 
 #### **Uploading Your Resume on GitHub**
-1. If you need still need to set up your Markdown environment, refer to the [setup guide](##Getting-Started).
+1. If you need still need to set up your Markdown environment, refer to the [setup guide](###Getting-Started).
     * If you are yet to be familiar with Markdown, [an easy-to-follow tutorial](##More-Resources) is available.
     * This tutorial also includes a [Markdown cheat sheet](##More-Resources) for those already experienced, but require some brushing up. 
 
@@ -146,7 +149,7 @@ By the end of this section, you have:
 
 ---
 
-## Viewing your GitHub Page
+### Viewing your GitHub Page
 
 By the end of this section, you have:
 * Successfully viewed your resume on your GitHub Page through at least one of two methods
