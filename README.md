@@ -4,6 +4,7 @@ This README goes over the steps on how to take to create a [resume written in th
 
 ---
 ## Contents
+* Audience
 * Prerequisites
    * [Getting Started](##Getting-Started)
       * [Choosing a Markdown Editor](####Choosing-a-Markdown-Editor)
@@ -23,6 +24,11 @@ This README goes over the steps on how to take to create a [resume written in th
 * [More Resources](##More-Resources)
 * [Authors and Acknowledgements](##Authors-and-Acknowledgements)
 * [FAQs](##FAQs)
+
+---
+
+## Audience
+This README aims to target a computer science student who wishes to know how to host their resume on GitHub pages, and also wishes to learn about a few technical writing principles highlighted in "Modern Technical Wriitng" by Andrew Etter. No knowledge of GitHub or Markdown is assumed, and consequently, no knowledge of Git is also assumed. This README tutorial also assumes that it may not be followed in a linear fashion as anchored links are present, and each section/sub-sections does not assume knowledge of other sections. 
 
 ---
  
