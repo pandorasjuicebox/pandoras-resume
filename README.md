@@ -127,7 +127,7 @@ By the end of this section, you have:
 
     ![A GIF showing how to upload files from the repository](https://media.giphy.com/media/gL6NYRPMIXzR4wdGxQ/giphy.gif)
 
-6. Drag or choose ```index.md``` from the directory it located to the page to upload the file. In this tutorial, the drag function will be used.
+6. Drag or choose ```index.md``` from the directory it is from to the page to upload the file. In this tutorial, the drag function will be used.
 
     ![A GIF dragging to upload index.md to GitHub's uploader](https://media.giphy.com/media/yPxRQOsRXkFgjvmsaK/giphy.gif)
 7. To finalise or commit these changes, navigate down to the **Commit Changes** section. Adding a description is optional. Click on "**Commit Changes**" to upload ```index.md``` to the repository. 
@@ -140,7 +140,7 @@ By the end of this section, you have:
 ## Viewing your GitHub Page
 
 By the end of this section, you have:
-* Successfully viewed your resume on your GitHub Page in at least one of two methods
+* Successfully viewed your resume on your GitHub Page through at least one of two methods
 
 #### **Viewing Your GitHub Page By URL**
 1. Your main GitHub page is ```https://<Your GitHub Username>.GitHub.io/```. 
@@ -242,7 +242,7 @@ In this section of the book, Etter goes through a few bullet points about how to
 ## FAQs
 **Why is Markdown better than a word processor?**
 * It works with any platform. All you have to do is to download a Markdown editor on your platform of choice -- whether that's a laptop computer, tablet, phone, etc. -- and start writing. 
-* Unlike a word processor where you are limited to the capabilities of the program, there are many Markdown editors to choose from that may suit your needs.
+* Unlike with a word processor where you are limited to the capabilities of the program, there are many Markdown editors to choose from that may suit your needs.
 * Markdown has inline styles, but is still plain text. So it can be read by any program, including the ones you make.
 
 **Why is my resume not showing up?**
