@@ -20,7 +20,7 @@ This README tutorial goes over the steps on how to create a [resume written in t
     * [Using a Lightweight Markup Language](#Using-a-Lightweight-Markup-Language)
     * [Using Static Websites](#Using-Static-Websites)
     * [Lightweight Markup Languages and Static Site Generators](#Lightweight-Markup-Languages-and-Static-Site-Generators)
-    * [Why Use a Distributed File Sharing System?](#Why-Use-A-Distributed-File-Sharing-System?)
+    * [Why Use a Distributed File Sharing System?](#Why-Use-A-Distributed-File-Sharing-System)
 * [More Resources](#More-Resources)
 * [Authors and Acknowledgements](#Authors-and-Acknowledgements)
 * [FAQs](#FAQs)
