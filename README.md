@@ -205,8 +205,8 @@ Using a distributed file sharing system allows for local and remote separation, 
 ## Authors and Acknowledgements 
 #### **Author**
 * [Charina Duenas](https://github.com/pandorasjuicebox)  
-#### **Group Members**
-* [Emily Nguyen](https://github.com/emily0906) - Peer Editor
+#### **Group Members/Peer Editors**
+* [Emily Nguyen](https://github.com/emily0906) 
 * [Rajinder Singh](https://github.com/rajindersingh751) 
 * [Mohammed Anjum](https://github.com/vijdan-anjum)
 #### **GitHub Page Theme**
