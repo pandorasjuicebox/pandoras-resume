@@ -208,7 +208,7 @@ Using a distributed file sharing system allows for local and remote separation, 
 #### **Group Members**
 * [Emily Nguyen](https://github.com/emily0906) - Peer Editor
 * [Rajinder Singh](https://github.com/rajindersingh751) 
-* Mohammed Anjum
+* [Mohammed Anjum](https://github.com/vijdan-anjum)
 #### **GitHub Page Theme**
 * [Steve Smith](https://github.com/orderedlist) 
 ---
